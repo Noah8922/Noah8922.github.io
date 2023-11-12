@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.b4deeb78.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/Metapolis.jpg": "/static/media/Metapolis.c44c7918f87d360dfe58.jpg",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.b4deeb78.js.map": "/static/js/main.b4deeb78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b4deeb78.js"
+  ]
+}
