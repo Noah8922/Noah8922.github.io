@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.ce04ed0a.css",
-    "main.js": "/static/js/main.7f619d62.js",
-    "static/media/DACO_LOGO_SHORT.png": "/static/media/DACO_LOGO_SHORT.626241ede02436ca3e4a.png",
+    "main.css": "/static/css/main.70e9caad.css",
+    "main.js": "/static/js/main.628f56d7.js",
+    "static/media/DACO_LOGO_LONG.png": "/static/media/DACO_LOGO_LONG.d228ade1afc27da3c940.png",
+    "static/media/DACO_LOGO_SHORT.png": "/static/media/DACO_LOGO_SHORT.2e94fe3314b078eb7a35.png",
     "service-worker.js": "/service-worker.js",
-    "static/media/DACO_LOGO_LONG.png": "/static/media/DACO_LOGO_LONG.9aae2934dfbd81dfecd5.png",
     "index.html": "/index.html",
-    "main.ce04ed0a.css.map": "/static/css/main.ce04ed0a.css.map",
-    "main.7f619d62.js.map": "/static/js/main.7f619d62.js.map"
+    "main.70e9caad.css.map": "/static/css/main.70e9caad.css.map",
+    "main.628f56d7.js.map": "/static/js/main.628f56d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce04ed0a.css",
-    "static/js/main.7f619d62.js"
+    "static/css/main.70e9caad.css",
+    "static/js/main.628f56d7.js"
   ]
 }
