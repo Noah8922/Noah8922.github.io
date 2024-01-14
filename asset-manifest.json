@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.70e9caad.css",
-    "main.js": "/static/js/main.2ac47061.js",
+    "main.js": "/static/js/main.fe7e19b1.js",
     "static/media/DACO_LOGO_LONG.png": "/static/media/DACO_LOGO_LONG.d228ade1afc27da3c940.png",
     "static/media/DACO_LOGO_SHORT.png": "/static/media/DACO_LOGO_SHORT.2e94fe3314b078eb7a35.png",
     "service-worker.js": "/service-worker.js",
     "index.html": "/index.html",
     "main.70e9caad.css.map": "/static/css/main.70e9caad.css.map",
-    "main.2ac47061.js.map": "/static/js/main.2ac47061.js.map"
+    "main.fe7e19b1.js.map": "/static/js/main.fe7e19b1.js.map"
   },
   "entrypoints": [
     "static/css/main.70e9caad.css",
-    "static/js/main.2ac47061.js"
+    "static/js/main.fe7e19b1.js"
   ]
 }
